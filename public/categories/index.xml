@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://ruysal.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2022 15:48:37 +0100</lastBuildDate><atom:link href="https://ruysal.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>windows, forensic, malware, incident response</title>
+      <link>https://ruysal.com/categories/windows-forensic-malware-incident-response/</link>
+      <pubDate>Fri, 11 Mar 2022 15:48:37 +0100</pubDate>
+      
+      <guid>https://ruysal.com/categories/windows-forensic-malware-incident-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware</title>
+      <link>https://ruysal.com/categories/Malware/</link>
+      <pubDate>Thu, 26 Nov 2020 19:15:02 +0000</pubDate>
+      
+      <guid>https://ruysal.com/categories/Malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://ruysal.com/categories/Java/</link>
+      <pubDate>Wed, 23 Jan 2019 19:15:02 +0000</pubDate>
+      
+      <guid>https://ruysal.com/categories/Java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>https://ruysal.com/categories/OS/</link>
+      <pubDate>Sun, 19 Nov 2017 02:15:02 +0000</pubDate>
+      
+      <guid>https://ruysal.com/categories/OS/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

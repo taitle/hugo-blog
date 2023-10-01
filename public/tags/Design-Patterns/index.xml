@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Patterns on </title>
+    <link>https://ruysal.com/tags/Design-Patterns/</link>
+    <description>Recent content in Design Patterns on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 19:15:02 +0000</lastBuildDate><atom:link href="https://ruysal.com/tags/Design-Patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Combining Multiple Design Patterns in Java</title>
+      <link>https://ruysal.com/post/2019-01-23-Combining-Multiple-Design-Patterns-in-Java/</link>
+      <pubDate>Wed, 23 Jan 2019 19:15:02 +0000</pubDate>
+      
+      <guid>https://ruysal.com/post/2019-01-23-Combining-Multiple-Design-Patterns-in-Java/</guid>
+      <description>For my designs patterns course, I had to design an application combining multiple Design Patterns and implement it in Java. Below is the given project description :
+So, first of all we have to infer which design patterns we are supposed to use from the given text.
+First sentence indicates we should use Observer Pattern &amp;ldquo;Family of sensors&amp;rdquo; manufactured by different factories, so Abstract Factory Pattern it is Adaptability for SMS, so Adapter Pattern will be used Different commands will be executed, so Command Pattern should be used Single object creation, so Singleton Pattern will be used So, we are gonna have to combine 5 patterns to implement the application.</description>
+    </item>
+    
+  </channel>
+</rss>

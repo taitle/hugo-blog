@@ -1,0 +1,22 @@
+baseURL = "https://ruysal.com"
+disablePathToLower = true
+languageCode = "en-us"
+theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[params]
+  colortheme = "light" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  showAllPostsOnHomePage = true # default
+  disableSpecial1stPost = true
+  hideSummary = true
+  showtoc = true

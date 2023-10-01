@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://ruysal.com/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2022 15:48:37 +0100</lastBuildDate><atom:link href="https://ruysal.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Dead Box (Disk Image) Forensics</title>
+      <link>https://ruysal.com/post/2022-03-11-Windows-Forensics/</link>
+      <pubDate>Fri, 11 Mar 2022 15:48:37 +0100</pubDate>
+      
+      <guid>https://ruysal.com/post/2022-03-11-Windows-Forensics/</guid>
+      <description>TL;DR: In case you are responding to an active incident:
+There is simply A LOT to analyze in terms of forensic artifacts on Windows systems. The process can take a long time, and slow down the IR process. Below are some of the artifacts that tends to yield quick results.
+Make sure to switch to offline disk analysis on these tools and point them to the right disk!
+WinLogOnView: Which account was logged into?</description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering: Malware Analysis of Ursnif</title>
+      <link>https://ruysal.com/post/2020-11-26-Analysis-of-Ursnif-Malware/</link>
+      <pubDate>Thu, 26 Nov 2020 19:15:02 +0000</pubDate>
+      
+      <guid>https://ruysal.com/post/2020-11-26-Analysis-of-Ursnif-Malware/</guid>
+      <description>In this post, I will document my analysis of a malware sample from the Ursnif family. The analysis is only concerned with dissecting the DLL sample, and not the Delivery, and Weaponization procedures.
+Ursnif employs quite a few tricks to make the analysis more challenging and hide itself from intruding eyes, such as:
+Dynamically importing functions from libraries Storing things encrypted Process Injection Corrupted PE headers Using .rdata to store encrypted payloads encrypted C2 communication Let&amp;rsquo;s get started.</description>
+    </item>
+    
+    <item>
+      <title>Combining Multiple Design Patterns in Java</title>
+      <link>https://ruysal.com/post/2019-01-23-Combining-Multiple-Design-Patterns-in-Java/</link>
+      <pubDate>Wed, 23 Jan 2019 19:15:02 +0000</pubDate>
+      
+      <guid>https://ruysal.com/post/2019-01-23-Combining-Multiple-Design-Patterns-in-Java/</guid>
+      <description>For my designs patterns course, I had to design an application combining multiple Design Patterns and implement it in Java. Below is the given project description :
+So, first of all we have to infer which design patterns we are supposed to use from the given text.
+First sentence indicates we should use Observer Pattern &amp;ldquo;Family of sensors&amp;rdquo; manufactured by different factories, so Abstract Factory Pattern it is Adaptability for SMS, so Adapter Pattern will be used Different commands will be executed, so Command Pattern should be used Single object creation, so Singleton Pattern will be used So, we are gonna have to combine 5 patterns to implement the application.</description>
+    </item>
+    
+    <item>
+      <title>Page Tables, Implementing Shebang, and Integer Overflow in Xv6</title>
+      <link>https://ruysal.com/post/2017-11-19-answers-to-page-table-exercises-in-xv6/</link>
+      <pubDate>Sun, 19 Nov 2017 02:15:02 +0000</pubDate>
+      
+      <guid>https://ruysal.com/post/2017-11-19-answers-to-page-table-exercises-in-xv6/</guid>
+      <description>Introduction xv6 is a reimplementation of UNIXv6 for x86 architecture, created by MIT to be used in their Operating System courses. I found it to be an absolutely great course and learned a lot from it. Hence, I wanted to write about it.
+In this post, I will explain some of my solutions for the exercise questions posed in Chapter 2 of the booklet, namely the chapter Page Tables. Since the subject is presented extensively in the book, I won&amp;rsquo;t re-write every detail about it.</description>
+    </item>
+    
+  </channel>
+</rss>
